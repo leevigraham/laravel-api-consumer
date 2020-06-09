@@ -18,7 +18,7 @@
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "license": "Apache",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Esben Petersen",
