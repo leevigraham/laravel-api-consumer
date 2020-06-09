@@ -1,5 +1,7 @@
 {
-    "name": "optimus/api-consumer",
+    "name": "moova/optimus-api-consumer",
+    "description":"moova.io fork for esbenp/laravel-api-consumer package",
+    "homepage":"https://github.com/moovaio/laravel-api-consumer",
     "require": {
         "laravel/framework": "~6.0"
     },
