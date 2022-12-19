@@ -3,7 +3,7 @@
     "description":"moova.io fork for esbenp/laravel-api-consumer package",
     "homepage":"https://github.com/moovaio/laravel-api-consumer",
     "require": {
-        "laravel/framework": "^8.0"
+        "laravel/framework": "^8.0|^9.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.0",
